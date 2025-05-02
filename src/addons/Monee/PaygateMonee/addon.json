@@ -1,0 +1,23 @@
+{
+    "legacy_addon_id": "",
+    "title": "Monee",
+    "description": "Модуль для приема платежей через Monee",
+    "version_id": 1000070,
+    "version_string": "1.0",
+    "dev": "Monee",
+    "dev_url": "https://monee.pro",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": {},
+    "require": {
+        "php": [
+            "7.1",
+            "PHP 7.1+"
+        ],
+        "XF": [
+            2010070,
+            "XenForo 2.1.0+"
+        ]
+    },
+    "icon": "icon.png"
+}

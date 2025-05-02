@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="mn_pg_mn_api_key" version_id="1000070" version_string="1.0"><![CDATA[UUID мерчанта]]></phrase>
+  <phrase title="mn_pg_mn_api_key_explain" version_id="1000070" version_string="1.0"><![CDATA[UUID можно узнать на вкладке «Настройки»]]></phrase>
+  <phrase title="mn_pg_mn_you_must_provide_all_data" version_id="1000070" version_string="1.0"><![CDATA[Заполните все данные, чтобы продолжить]]></phrase>
+  <phrase title="mn_pg_mn_sum_is_too_big" version_id="1000070" version_string="1.0"><![CDATA[Указанная сумма слишком большая]]></phrase>
+  <phrase title="mn_pg_mn_sum_is_too_small" version_id="1000070" version_string="1.0"><![CDATA[Указанная сумма слишком маленькая]]></phrase>
+</phrases>
